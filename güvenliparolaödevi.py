@@ -5,7 +5,7 @@ print("Bu program kullanıcılara daha güvenli şifreler sunar...")
 büyükharfler= "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVWXYZ"
 küçükharfler= "abcçdefghgğhıijklmnoöprsştuüvwxyz"
 rakamlar="0415862379"
-özelkarekterler=".,*-+?/ "
+özelkarekterler="' ! # @ . , $ "
 
 
 a1= input("Şifrenizde büyük karekter olsun mu? [E/H]")
